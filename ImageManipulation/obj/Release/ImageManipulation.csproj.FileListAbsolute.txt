@@ -1,0 +1,5 @@
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\ImageManipulation\obj\Release\ResolveAssemblyReference.cache
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\ImageManipulation\bin\Release\SCS.Tools.dll
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\ImageManipulation\bin\Release\SCS.Tools.pdb
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\ImageManipulation\obj\Release\SCS.Tools.dll
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\ImageManipulation\obj\Release\SCS.Tools.pdb

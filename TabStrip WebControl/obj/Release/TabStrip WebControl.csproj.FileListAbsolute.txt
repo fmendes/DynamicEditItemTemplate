@@ -1,0 +1,9 @@
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\obj\Release\ResolveAssemblyReference.cache
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\obj\Release\SCS.Web.UI.WebControls.Design.TabImageBuilderForm.resources
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\obj\Release\TabStrip WebControl.csproj.GenerateResource.Cache
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\bin\Release\SCS.TabStrip.dll
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\bin\Release\SCS.TabStrip.pdb
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\bin\Release\SCS.Tools.dll
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\bin\Release\SCS.Tools.pdb
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\obj\Release\SCS.TabStrip.dll
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\obj\Release\SCS.TabStrip.pdb

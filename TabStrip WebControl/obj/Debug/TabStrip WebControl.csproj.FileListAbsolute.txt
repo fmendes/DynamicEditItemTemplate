@@ -1,0 +1,38 @@
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\TabStrip WebControl\bin\Debug\SCS.TabStrip.dll
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\TabStrip WebControl\bin\Debug\SCS.TabStrip.pdb
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\TabStrip WebControl\bin\Debug\SCS.Tools.dll
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\TabStrip WebControl\bin\Debug\SCS.Tools.pdb
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\TabStrip WebControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Design.TabImageBuilderForm.resources
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\TabStrip WebControl\obj\Debug\TabStrip WebControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\TabStrip WebControl\obj\Debug\SCS.TabStrip.dll
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\TabStrip WebControl\obj\Debug\SCS.TabStrip.pdb
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\bin\Debug\SCS.TabStrip.dll
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\bin\Debug\SCS.TabStrip.pdb
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\bin\Debug\SCS.Tools.dll
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\bin\Debug\SCS.Tools.pdb
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Design.TabImageBuilderForm.resources
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\obj\Debug\TabStrip WebControl.csproj.GenerateResource.Cache
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\obj\Debug\SCS.TabStrip.dll
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\TabStrip WebControl\obj\Debug\SCS.TabStrip.pdb
+C:\NewDev\NewMCIS\NewMCIS\TabStrip WebControl\obj\Debug\ResolveAssemblyReference.cache
+C:\NewDev\NewMCIS\NewMCIS\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Design.TabImageBuilderForm.resources
+C:\NewDev\NewMCIS\NewMCIS\TabStrip WebControl\obj\Debug\ResGen.read.1.tlog
+C:\NewDev\NewMCIS\NewMCIS\TabStrip WebControl\obj\Debug\ResGen.write.1.tlog
+C:\NewDev\NewMCIS\NewMCIS\TabStrip WebControl\obj\Debug\SCS.TabStrip.dll
+C:\NewDev\NewMCIS\NewMCIS\TabStrip WebControl\obj\Debug\SCS.TabStrip.pdb
+C:\NewDev\NewMCIS\NewMCIS\TabStrip WebControl\bin\Debug\SCS.TabStrip.dll
+C:\NewDev\NewMCIS\NewMCIS\TabStrip WebControl\bin\Debug\SCS.TabStrip.pdb
+C:\NewDev\NewMCIS\NewMCIS\TabStrip WebControl\bin\Debug\SCS.Tools.dll
+C:\NewDev\NewMCIS\NewMCIS\TabStrip WebControl\bin\Debug\SCS.Tools.pdb
+C:\NewDev\CADDataEditor\TabStrip WebControl\bin\Debug\SCS.TabStrip.dll
+C:\NewDev\CADDataEditor\TabStrip WebControl\bin\Debug\SCS.TabStrip.pdb
+C:\NewDev\CADDataEditor\TabStrip WebControl\bin\Debug\SCS.Tools.dll
+C:\NewDev\CADDataEditor\TabStrip WebControl\bin\Debug\SCS.Tools.pdb
+C:\NewDev\CADDataEditor\TabStrip WebControl\obj\Debug\ResolveAssemblyReference.cache
+C:\NewDev\CADDataEditor\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Design.TabImageBuilderForm.resources
+C:\NewDev\CADDataEditor\TabStrip WebControl\obj\Debug\ResGen.read.1.tlog
+C:\NewDev\CADDataEditor\TabStrip WebControl\obj\Debug\ResGen.write.1.tlog
+C:\NewDev\CADDataEditor\TabStrip WebControl\obj\Debug\SCS.TabStrip.dll
+C:\NewDev\CADDataEditor\TabStrip WebControl\obj\Debug\SCS.TabStrip.pdb

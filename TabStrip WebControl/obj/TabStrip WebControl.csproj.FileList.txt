@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TabStrip WebControl.csproj.GenerateResource.Cache
+obj\Debug\SCS.Web.UI.WebControls.Design.TabImageBuilderForm.resources
+bin\Debug\SCS.TabStrip.dll
+bin\Debug\SCS.TabStrip.pdb
+obj\Debug\SCS.TabStrip.dll
+obj\Debug\SCS.TabStrip.pdb
+bin\Debug\SCS.Tools.dll
+bin\Debug\SCS.Tools.pdb
+obj\Debug\SCS.Web.UI.WebControls.Resources.Images.spacer.gif
+obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_left.gif
+obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_left_on.gif
+obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_right.gif
+obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_right_on.gif
+obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_underline.gif

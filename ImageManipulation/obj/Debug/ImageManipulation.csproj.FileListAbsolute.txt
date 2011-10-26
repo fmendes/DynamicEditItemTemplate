@@ -1,0 +1,20 @@
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\ImageManipulation\bin\Debug\SCS.Tools.dll
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\ImageManipulation\bin\Debug\SCS.Tools.pdb
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\ImageManipulation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\ImageManipulation\obj\Debug\SCS.Tools.dll
+C:\Documents and Settings\wdavidsen\Desktop\Copy of TabStrip 1.3 again\TabStrip WebControl and ImageBuilder v1.4\ImageManipulation\obj\Debug\SCS.Tools.pdb
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\ImageManipulation\bin\Debug\SCS.Tools.dll
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\ImageManipulation\bin\Debug\SCS.Tools.pdb
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\ImageManipulation\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\ImageManipulation\obj\Debug\SCS.Tools.dll
+C:\temp\tabStrip 1.4 vs 2008\TabStrip WebControl and ImageBuilder v1.4 VS 2008\ImageManipulation\obj\Debug\SCS.Tools.pdb
+C:\NewDev\NewMCIS\NewMCIS\ImageManipulation\bin\Debug\SCS.Tools.dll
+C:\NewDev\NewMCIS\NewMCIS\ImageManipulation\bin\Debug\SCS.Tools.pdb
+C:\NewDev\NewMCIS\NewMCIS\ImageManipulation\obj\Debug\ResolveAssemblyReference.cache
+C:\NewDev\NewMCIS\NewMCIS\ImageManipulation\obj\Debug\SCS.Tools.dll
+C:\NewDev\NewMCIS\NewMCIS\ImageManipulation\obj\Debug\SCS.Tools.pdb
+C:\NewDev\CADDataEditor\ImageManipulation\bin\Debug\SCS.Tools.dll
+C:\NewDev\CADDataEditor\ImageManipulation\bin\Debug\SCS.Tools.pdb
+C:\NewDev\CADDataEditor\ImageManipulation\obj\Debug\ResolveAssemblyReference.cache
+C:\NewDev\CADDataEditor\ImageManipulation\obj\Debug\SCS.Tools.dll
+C:\NewDev\CADDataEditor\ImageManipulation\obj\Debug\SCS.Tools.pdb

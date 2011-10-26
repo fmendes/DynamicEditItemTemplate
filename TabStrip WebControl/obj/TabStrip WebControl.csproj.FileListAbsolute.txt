@@ -1,0 +1,30 @@
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\bin\Debug\SCS.TabStrip.dll
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\bin\Debug\SCS.TabStrip.pdb
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\bin\Debug\SCS.Tools.dll
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\bin\Debug\SCS.Tools.pdb
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.spacer.gif
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_left.gif
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_left_on.gif
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_right.gif
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_right_on.gif
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_underline.gif
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Design.TabImageBuilderForm.resources
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\TabStrip WebControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.TabStrip.dll
+C:\Documents and Settings\wdavidsen\My Documents\Visual Studio 2005\Projects\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.TabStrip.pdb
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.spacer.gif
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_left.gif
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_left_on.gif
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_right.gif
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_right_on.gif
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Resources.Images.tab_underline.gif
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.Web.UI.WebControls.Design.TabImageBuilderForm.resources
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\TabStrip WebControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.TabStrip.pdb
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\bin\Debug\SCS.TabStrip.dll
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\bin\Debug\SCS.TabStrip.pdb
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\bin\Debug\SCS.Tools.dll
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\bin\Debug\SCS.Tools.pdb
+C:\Documents and Settings\wdavidsen\Desktop\TabStrip 1.3 again\TabStrip WebControl\TabStrip WebControl\obj\Debug\SCS.TabStrip.dll

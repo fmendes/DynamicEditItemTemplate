@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\SCS.Tools.dll
+bin\Debug\SCS.Tools.pdb
+obj\Debug\SCS.Tools.dll
+obj\Debug\SCS.Tools.pdb
